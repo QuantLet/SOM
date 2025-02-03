@@ -1,0 +1,11 @@
+Name of QuantLet : 'SOM'
+
+Published in : 'SOM' 
+
+Description : 'An example of SOM'
+
+Keywords : 'SOM'
+
+Author : 'WK Haerdle Zuo Xiaorui'
+
+Submitted : Mon, Feb 3 2025
